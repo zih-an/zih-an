@@ -1,1 +1,1 @@
-![alt THIS Z](desktop.png =300x)
+<img width="200px" src="desktop.png">
