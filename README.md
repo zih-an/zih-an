@@ -37,11 +37,11 @@
         </div>
     </td>
     <td>
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zih-an&langs_count=10&theme=vue&bg_color=white&layout=compact&hide_border=true" alt="zih-an :: Top Langs" />
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zih-an&langs_count=10&layout=compact&hide_border=true" alt="zih-an :: Top Langs" />
     </td>
   </tr>
  </table>
-
+ 
 <div>
   <h3 align="center">⏬ Connect with Me ⏬</h3>
   <p align="center">
