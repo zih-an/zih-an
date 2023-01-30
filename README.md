@@ -1,12 +1,14 @@
 
-<h2 align="center">🤙 Hi There 🤙</h2>
-<img src="profileflag.png" />
+<!-- <h3 align="center">🤙 Hi There 🤙</h2> -->
 <div align="center">
-  <p>I'm a CS student from Shandong University. <br/>My recent interests are Visualization and HCI. </p>
+  <p>
+    I'm a CS student from Shandong University, interested in computer graphics.👣
+    
+  </p>
 </div>
 
-<h2 align="center">💻 Tech 💻</h2>
-<table align="center">
+<!-- <h3 align="center">💻 Tech 💻</h2> -->
+<!-- <table align="center">
   <tr>
     <td>
         <div> 
@@ -40,7 +42,7 @@
        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zih-an&langs_count=10&layout=compact&hide_border=true" alt="zih-an :: Top Langs" />
     </td>
   </tr>
- </table>
+ </table> -->
  
 <div>
   <h3 align="center">⏬ Connect with Me ⏬</h3>
